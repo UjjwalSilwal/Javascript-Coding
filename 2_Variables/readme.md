@@ -1,1 +1,1 @@
-![Variables](00_photo_notes\2.1.jpg)
+![Variables](2_Variables\2.1.jpg)
